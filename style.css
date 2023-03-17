@@ -1,0 +1,9 @@
+body{
+    margin: 20;
+    padding: 20;
+    background: url(hello.jpeg);   
+    background-size: auto;
+    background-position: center;
+    font-family:sans-serif;
+    background-attachment: fixed;
+}
